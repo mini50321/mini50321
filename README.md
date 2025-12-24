@@ -12,11 +12,12 @@
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=go" alt="Go"/><br><sub>Go</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=solidity" alt="Solidity"/><br><sub>Solidity</sub></td>
     <td align="center" width="90"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="35" alt="Ethereum"/><br><sub>Ethereum</sub></td>
-  </tr>
-  <tr>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=react" alt="React"/><br><sub>React</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=next" alt="Next.js"/><br><sub>Next.js</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><br><sub>Node.js</sub></td>
+  </tr>
+  <tr>
+   
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"/><br><sub>NestJS</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/><br><sub>FastAPI</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=express" alt="Express"/><br><sub>Express</sub></td>
