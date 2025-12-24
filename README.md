@@ -17,7 +17,11 @@
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><br><sub>Node.js</sub></td>
   </tr>
   <tr>
-   
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=terraform" alt="Terraform"/><br><sub>Terraform</sub></td>
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=github" alt="GitHub Actions"/><br><sub>GitHub Actions</sub></td>
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=aws" alt="AWS"/><br><sub>AWS</sub></td>
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=docker" alt="Docker"/><br><sub>Docker</sub></td>
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/><br><sub>K8s</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"/><br><sub>NestJS</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/><br><sub>FastAPI</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=express" alt="Express"/><br><sub>Express</sub></td>
@@ -31,15 +35,6 @@
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"/><br><sub>Tailwind</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=redux" alt="Redux"/><br><sub>Redux</sub></td>
     <td align="center" width="90"><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"/><br><sub>GraphQL</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=aws" alt="AWS"/><br><sub>AWS</sub></td>
-    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=docker" alt="Docker"/><br><sub>Docker</sub></td>
-    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/><br><sub>K8s</sub></td>
-    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=terraform" alt="Terraform"/><br><sub>Terraform</sub></td>
-    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=github" alt="GitHub Actions"/><br><sub>GitHub Actions</sub></td>
-    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=web3" alt="Web3.js"/><br><sub>Web3.js</sub></td>
-    <td align="center" width="90"><sub>📊 Vector DBs</sub></td>
   </tr>
 </table>
 
