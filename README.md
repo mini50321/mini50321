@@ -1,8 +1,6 @@
 [<img src="https://www.southeastblack.com/x/cdn/?https://storage.googleapis.com/production-homestead-v1-0-0/750/376750/UB0wWwig/85bb7a9b2142425e868c707f14d4e0cb" alt="Spotify Playing" width="410" height='320' />](https://open.spotify.com/playlist/4QRUxt16srvkyh7W08g3Wk)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="410" height="300"/>
 
-## 🛠️ My Swiss Army Knife
-
 <div align="center">
 
 <table style="background: #0d1117; border: none;">
@@ -46,12 +44,3 @@
 
 </div>
 
-
-## 🔭 What I'm Currently Exploring
-
-- 🤖 **Building**: Multi-agent AI systems for autonomous smart contract auditing
-- 🧠 **Learning**: On-chain AI verification mechanisms & ZK proofs
-- 📖 **Reading**: "Designing Machine Learning Systems" & EVM deep dives
-- 💬 **Open to**: Collaborations on AI x Web3 infrastructure, open-source LLM tooling
-
----
