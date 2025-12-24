@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=terraform" alt="Terraform"/><br><sub>Terraform</sub></td>
-    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=github" alt="GitHub Actions"/><br><sub>GitHub Actions</sub></td>
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=github" alt="GitHub Actions"/><br><sub>GitHub</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=aws" alt="AWS"/><br><sub>AWS</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=docker" alt="Docker"/><br><sub>Docker</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/><br><sub>K8s</sub></td>
