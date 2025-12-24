@@ -26,9 +26,9 @@
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/><br><sub>FastAPI</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=express" alt="Express"/><br><sub>Express</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=flask" alt="Flask"/><br><sub>Flask</sub></td>
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/><br><sub>PostgreSQL</sub></td>
   </tr>
   <tr>
-    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/><br><sub>PostgreSQL</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/><br><sub>MongoDB</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=redis" alt="Redis"/><br><sub>Redis</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=prisma" alt="Prisma"/><br><sub>Prisma</sub></td>
