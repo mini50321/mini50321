@@ -35,6 +35,8 @@
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"/><br><sub>Tailwind</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=redux" alt="Redux"/><br><sub>Redux</sub></td>
     <td align="center" width="90"><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"/><br><sub>GraphQL</sub></td>
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=unity"/><br><sub>Unity</sub></td>
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=blender"/><br><sub>3D Modeling</sub></td>
   </tr>
 </table>
 
