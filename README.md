@@ -37,6 +37,8 @@
     <td align="center" width="90"><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"/><br><sub>GraphQL</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=unity"/><br><sub>Unity</sub></td>
     <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=blender"/><br><sub>3DModeling</sub></td>
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=photoshop"/><br><sub>Photoshop</sub></td>
+    <td align="center" width="90"><img width="35" src="https://skillicons.dev/icons?i=xd"/><br><sub>Adobe XD</sub></td>
   </tr>
 </table>
 
